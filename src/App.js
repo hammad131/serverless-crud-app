@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import ContentEditable from './components/ContentEditable'
-import AppHeader from './components/AppHeader'
+import { AppHeader } from './components/AppHeader'
 import SettingsMenu from './components/SettingsMenu'
 import SettingsIcon from './components/SettingsIcon'
 import analytics from './utils/analytics'
